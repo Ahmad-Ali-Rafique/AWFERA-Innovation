@@ -46,8 +46,8 @@ Click on a **course folder** to view:
 
 ## 🔗 Connect with Me  
 👨‍💻 **GitHub:** [Ahmad-Ali-Rafique](https://github.com/Ahmad-Ali-Rafique/)  
-📧 **Email:** *[arsbussiness786@gmail.com]*  
-💼 **LinkedIn:** *[https://www.linkedin.com/in/ahmad-ali-rafique/]*  
+📧 **Email:** *arsbussiness786@gmail.com*
+💼 **LinkedIn:** *https://www.linkedin.com/in/ahmad-ali-rafique/*  
 
 ---
 
