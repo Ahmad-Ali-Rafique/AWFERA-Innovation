@@ -1,3 +1,5 @@
+# ![Awfera Innovation](https://github.com/Ahmad-Ali-Rafique/AWFERA-Innovation/blob/main/AWFERA-Innovation.png)  
+
 # 🏆 AWFERA-Innovation  
 
 🚀 This repository contains **assignments** and **solutions** from various courses I have completed on the **Awfera Innovation** platform.  
